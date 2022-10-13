@@ -17,5 +17,5 @@ Este está formado por distintos sistemas que se representan a continuación
 Además, se cuenta con el siguiente sistema eléctrico:
 ![esquema_electrico](/img/esquemaElectricoDetalle.png)
 
-El proyectro se encuentra detallado en la [Memoria del TFM](/doc/TFM_Mu%C3%B1oz_Bernal_David.pdf)
+El proyecto se encuentra detallado en la [Memoria del TFM](/doc/TFM_Mu%C3%B1oz_Bernal_David.pdf)
 
